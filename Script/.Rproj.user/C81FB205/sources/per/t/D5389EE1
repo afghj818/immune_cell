@@ -1,0 +1,28 @@
+{
+    "id": "D5389EE1",
+    "path": null,
+    "project_path": null,
+    "type": "object_explorer",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1653301922871.0,
+    "source_on_save": false,
+    "relative_order": 2,
+    "properties": {
+        "id": "3d5cb151359a4b52acb415b65c56cf95",
+        "name": "kk.diff",
+        "title": "kk.diff",
+        "language": "R",
+        "source_window_id": "",
+        "Source": "Source"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 7290891600612782703,
+    "encoding": "",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1653301922871,
+    "read_only": false,
+    "read_only_alternatives": []
+}
